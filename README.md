@@ -1,5 +1,6 @@
 ## JavaScript
-A code repo of JavaScript Learn What matter in Deep
+A code repo of JavaScript Learn What matter in Deep.
+ECMA script to define standard javascripts.
 
 Goal to build a full stack web application to help users.
 
@@ -14,5 +15,3 @@ Commands
 Open code pallte con. -- Ctrl + shift + p
 Open & close side bar -- Ctrl + B
 open & close terminal -- ctrl + `
-
-
