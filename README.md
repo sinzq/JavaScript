@@ -12,6 +12,6 @@ In this repo we are using GitHub to track our learning also save data on GitHub 
 ⚠️ Don't Forget to push commit ⚠️
 
 Commands
-Open code pallte con. -- Ctrl + shift + p
-Open & close side bar -- Ctrl + B
-open & close terminal -- ctrl + `
+Open code pallte con. -- Ctrl + shift + p     <br>
+Open & close side bar -- Ctrl + B             <br>
+open & close terminal -- ctrl + `             <br>
