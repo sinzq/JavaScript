@@ -24,7 +24,6 @@ console.log(score4.toLocaleString('en-in'))
 
 
 
-
 // Mathematics 
 
 console.log("Mathematics")
@@ -44,3 +43,8 @@ console.log(Math.max(4,5,6,7));       // find maximum value
 console.log(Math.min(4,5,6,7));       // find minimum value
 
 console.log(Math.random()*10+1);      // find  
+
+const min = 10
+const max = 20
+
+console.log(Math.floor(Math.random() * (max - min + 1 )) + min );

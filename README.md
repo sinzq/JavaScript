@@ -16,4 +16,27 @@ Open code pallte con. -- Ctrl + shift + p     <br>
 Open & close side bar -- Ctrl + B             <br>
 open & close terminal -- ctrl + `             <br>
 
+Paranthises    -- ()
+curlyy brassis -- []
+brackets       -- [] -- array
 
+```Javascript 
+
+let arr = [1, 2, 3, "Sinzq", true]
+console.log(`This is array elements -- ${arr}`)
+
+```
+
+## project links 
+[click me!](https://github.com/sinzq)
+
+
+## solution
+
+### projects
+
+```Javascript 
+
+console.log("This is print from javascript in .md")
+
+```
