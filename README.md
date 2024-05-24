@@ -40,3 +40,8 @@ console.log(`This is array elements -- ${arr}`)
 console.log("This is print from javascript in .md")
 
 ```
+
+
+	`console.log("hello fro JavaScript")`
+
+ ![alt text](https://github.com/[sinzq]/[sinzq]/blob/[branch]/image.jpg?raw=true)
