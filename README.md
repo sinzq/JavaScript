@@ -17,7 +17,7 @@ Open & close side bar -- Ctrl + B             <br>
 open & close terminal -- ctrl + `             <br>
 
 Paranthises    -- ()
-curlyy brassis -- []
+curlyy brassis -- {} -- object
 brackets       -- [] -- array
 
 ```Javascript 
@@ -26,6 +26,12 @@ let arr = [1, 2, 3, "Sinzq", true]
 console.log(`This is array elements -- ${arr}`)
 
 ```
+
+```Javascript 
+let obj = {key:"pair"}
+console.log(obj)
+```
+
 
 ## project links 
 [click me!](https://github.com/sinzq)
