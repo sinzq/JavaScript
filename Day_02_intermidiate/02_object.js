@@ -54,9 +54,12 @@ console.log("Second Part Two ")
 
 const app = new Object()               // single ton objects
 
-const ppa = {}                        // non singleton 
+const ppa = {}                         // non singleton 
+
 app.id = "12123asd"
+
 app.age = 12
+
 app.name  = "sinzq"
 
 console.log(app)
@@ -81,12 +84,33 @@ console.log(regularUser.name?.firstname)
 
 
 
-const obj1 ={name: "abc", age :12, date:"12 May,2024" }
+const target ={name: "abc", age :12, date:"12 May,2024" }
 
-const obj2 ={name: "bca", age :13, date:"13 May,2024" }
+const source ={name: "bca", age :13, date:"13 May,2024" }
 
 // const obj3 ={obj1,obj2}
 
-const obj3 = {}
+// const ass = Object.assign({}, target, source)
 
-console.log(obj3)
+const ass = {...target, ...source}        //  spread  glass example
+
+console.log(ass)
+
+
+const user = [
+    {id :"shi", email : 12},
+    {id :"sh", email : 13},
+    {id :"shiv", email : 14},
+    {id :"shiva", email : 15},
+    {id :"shivam", email : 16},
+]
+
+user[1].email
+
+console.log(target)
+
+// console.log(user)
+
+console.log(Object.keys(user))
+
+console.log(Object.values(user))

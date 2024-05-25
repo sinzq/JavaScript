@@ -16,11 +16,12 @@ Open code pallte con. -- Ctrl + shift + p     <br>
 Open & close side bar -- Ctrl + B             <br>
 open & close terminal -- ctrl + `             <br>
 
-Paranthises    -- ()
-curlyy brassis -- {} -- object
-brackets       -- [] -- array
+Paranthises    -- ()					<br>
+curlyy brassis -- {} -- object			<br>
+brackets       -- [] -- array			<br>
 
 ```Javascript 
+array
 
 let arr = [1, 2, 3, "Sinzq", true]
 console.log(`This is array elements -- ${arr}`)
@@ -28,6 +29,8 @@ console.log(`This is array elements -- ${arr}`)
 ```
 
 ```Javascript 
+Object  
+
 let obj = {key:"pair"}
 console.log(obj)
 ```
@@ -47,7 +50,8 @@ console.log("This is print from javascript in .md")
 
 ```
 
-
-	`console.log("hello fro JavaScript")`
-
- ![alt text](https://github.com/[sinzq]/[sinzq]/blob/[branch]/image.jpg?raw=true)
+```
+api is refer to our work burden on another person.
+{	key :values  }                             // both are string in json 
+https://api.github.com/users/sinzq
+```
