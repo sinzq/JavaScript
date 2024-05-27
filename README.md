@@ -36,6 +36,14 @@ console.log(obj)
 ```
 
 
+```javascript 
+Function with rest operator 
+function shopcart(...vumber){                 // rest oprator 
+    return vumber
+}
+console.log(shopcart(1, 3, 5, 6))
+```
+
 ## project links 
 [click me!](https://github.com/sinzq)
 
@@ -44,14 +52,9 @@ console.log(obj)
 
 ### projects
 
-```Javascript 
 
-console.log("This is print from javascript in .md")
-
-```
-
-```
-api is refer to our work burden on another person.
+```javascript 
+console.log("api is refer to our work burden on another person.")
 {	key :values  }                             // both are string in json 
 https://api.github.com/users/sinzq
 ```
