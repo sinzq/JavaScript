@@ -48,6 +48,14 @@ console.log("api is refer to our work burden on another person.")
 {	key :values  }       // both are string in json  https://api.github.com/users/sinzq
 ```
 
+```javascript 
+Comparisation Operator
+< less than         <= less than equal to         == equals to            === strict equal(+)
+> greater than      >= greater than equal to      != not equal to         !== strict equal(-)
+```
+
+// falsy value   > [false, 0n, 0, -0, null, undefined, NaN]
+// truthy value  > ["string", number, boolean, "0", "false", " ", [], {}, function(){}]
 
 ## project links 
 [click me!](https://github.com/sinzq)
