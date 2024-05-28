@@ -22,15 +22,13 @@ brackets       -- [] -- array			<br>
 
 ```Javascript 
 array
-
 let arr = [1, 2, 3, "Sinzq", true]
 console.log(`This is array elements -- ${arr}`)
-
 ```
+
 
 ```Javascript 
 Object  
-
 let obj = {key:"pair"}
 console.log(obj)
 ```
@@ -44,6 +42,13 @@ function shopcart(...vumber){                 // rest oprator
 console.log(shopcart(1, 3, 5, 6))
 ```
 
+
+```javascript 
+console.log("api is refer to our work burden on another person.")
+{	key :values  }       // both are string in json  https://api.github.com/users/sinzq
+```
+
+
 ## project links 
 [click me!](https://github.com/sinzq)
 
@@ -52,9 +57,3 @@ console.log(shopcart(1, 3, 5, 6))
 
 ### projects
 
-
-```javascript 
-console.log("api is refer to our work burden on another person.")
-{	key :values  }                             // both are string in json 
-https://api.github.com/users/sinzq
-```
